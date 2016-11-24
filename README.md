@@ -1,3 +1,5 @@
+3.2.2
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
