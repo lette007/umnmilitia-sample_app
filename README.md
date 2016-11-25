@@ -1,4 +1,5 @@
-3.2.2
+from views/layouts/application.html.erb: #<%= render 'layouts/rails_default' %>
+was located above: <%= render 'layouts/shim' %>
 
 # Ruby on Rails Tutorial sample application
 
